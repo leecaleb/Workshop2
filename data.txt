@@ -1,0 +1,5 @@
+If you run git commit -a, Git will tell you that nothing has changed… and that data.txt is an untracked file
+
+We need to explicitly tell Git to track changes to our new file.
+To do this, run git add data.txt. Forgetting to tell Git about new files is an easy mistake to make! 
+Always check that your files are added, committed, and pushed to GitHub.com.
